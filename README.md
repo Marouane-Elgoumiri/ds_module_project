@@ -1,4 +1,4 @@
-# DS mini project: Youtube comments analyser with NLTK
+# DS mini project: Hespress comments analyser with NLTK
 <div align="center">
   
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](Link)
@@ -8,7 +8,7 @@
 
 </div>
 
-![Screenshot from 2024-05-09 01-05-08](https://github.com/Marouane-Elgoumiri/ds_module_project/assets/96888594/d83e809e-946a-49a1-bc2d-3cdbe6a60b19)
+![Untitled](https://github.com/Marouane-Elgoumiri/ds_module_project/assets/96888594/443e5782-c6ba-4150-8f95-e5c25f461868)
 
 
 ## Team:
