@@ -10,8 +10,12 @@
 
 ![Untitled](https://github.com/Marouane-Elgoumiri/ds_module_project/assets/96888594/443e5782-c6ba-4150-8f95-e5c25f461868)
 
+## Problem statement:
 
-## Team:
+A sentiment analysis to classify comments of the Hespress website according to their tone: positive, negative or neutral. You will use libraries such as Pandas for the manipulation of data, NLTK (Natural Language Toolkit) for natural language processing, and machine learning techniques to input a model from of a dataset of annotated comments.
+
+### Team:
+
 * Marouane El Goumiri
 * Mouad Ahatour
 * Youssef Chakir
